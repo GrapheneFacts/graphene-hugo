@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fringes on GrapheneFacts</title>
+    <link>https://graphenefacts.org/fringe/</link>
+    <description>Recent content in Fringes on GrapheneFacts</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://graphenefacts.org/fringe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fringe and unverified claims log</title>
+      <link>https://graphenefacts.org/fringe/log/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/fringe/log/</guid>
+      <description>&lt;p&gt;These are &lt;strong&gt;not&lt;/strong&gt; established science. Documented so readers can see what is circulating.&lt;/p&gt;&#xA;&lt;h2 id=&#34;2026-w38&#34;&gt;2026-W38&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;GO in COVID vaccines / 5G activation&lt;/strong&gt; — Recycled 2021-era claims. &lt;strong&gt;Fringe.&lt;/strong&gt; [[topics/fringe/2026-09-16-go-vaccine-5g-claims]]&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Experimental GO vaccine adjuvant (animals)&lt;/strong&gt; — Real research topic in some labs; not the same as licensed product composition.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Source: &lt;a href=&#34;https://github.com/GrapheneFacts/graphene-archive/blob/main/fringe/log.md&#34;&gt;fringe/log.md&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

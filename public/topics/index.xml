@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on GrapheneFacts</title>
+    <link>https://graphenefacts.org/topics/</link>
+    <description>Recent content in Topics on GrapheneFacts</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://graphenefacts.org/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NIOSH graphene workplace exposure measurements</title>
+      <link>https://graphenefacts.org/topics/policy/2026-09-16-niosh-graphene-exposure/</link>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/topics/policy/2026-09-16-niosh-graphene-exposure/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Evidence:&lt;/strong&gt; Well-supported occupational data; 10 µg/m³ is a band, not an OSHA PEL&lt;/p&gt;&#xA;&lt;p&gt;NIOSH sampled workers at 11 US graphene producers/users. Many samples exceeded a conservative occupational exposure band of &lt;strong&gt;10 µg/m³&lt;/strong&gt; when dry powder was handled. Recommendation: supply graphene in masterbatch/liquid rather than loose powder. No reported human disease cluster tied to these data.&lt;/p&gt;&#xA;&lt;p&gt;See [[recurrence/log]] and [[weekly/2026-W38]].&lt;/p&gt;&#xA;&lt;p&gt;Archive file: &lt;a href=&#34;https://github.com/GrapheneFacts/graphene-archive/blob/main/topics/policy/2026-09-16-niosh-graphene-exposure.md&#34;&gt;topics/policy/2026-09-16-niosh-graphene-exposure.md&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>UCLA graphene stencil for molecular patterning</title>
+      <link>https://graphenefacts.org/topics/engineering/2026-09-15-ucla-graphene-stencil/</link>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/topics/engineering/2026-09-15-ucla-graphene-stencil/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Evidence:&lt;/strong&gt; Well-supported (2015 paper). &lt;strong&gt;2026 appearance:&lt;/strong&gt; Recurrence.&lt;/p&gt;&#xA;&lt;p&gt;Full write-up: [[posts/holey-graphene-molecular-stencil]]&lt;/p&gt;&#xA;&lt;p&gt;Graphene mask with holes on gold places molecules only where intended. Landmark: Thomas et al., &lt;em&gt;ACS Nano&lt;/em&gt; 2015, DOI 10.1021/acsnano.5b03936. UCLA Health reran the institutional story on 14–15 Sep 2026.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; &lt;a href=&#34;https://www.uclahealth.org/news/release/ucla-scientists-create-graphene-barrier-to-precisely-control-molecules-for-making-nanoelectronics&#34;&gt;UCLA Health&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Week context: [[weekly/2026-W38]] · [[recurrence/log]]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Engineering</title>
+      <link>https://graphenefacts.org/topics/engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/topics/engineering/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;[[posts/holey-graphene-molecular-stencil|Holey graphene as a molecular stencil]] (long read)&lt;/li&gt;&#xA;&lt;li&gt;[[topics/engineering/2026-09-15-ucla-graphene-stencil|UCLA stencil — short note]]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;See also [[weekly/2026-W38]].&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Graphene</title>
+      <link>https://graphenefacts.org/topics/graphene/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/topics/graphene/</guid>
+      <description>&lt;div class=&#34;start-list&#34;&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://graphenefacts.org/history&#34;&gt;History&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://graphenefacts.org/topics/research/science-catalogue&#34;&gt;Science&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://graphenefacts.org/topics/manufacturing/directory&#34;&gt;Manufacturing&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://graphenefacts.org/topics/finance/listings&#34;&gt;Companies&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://graphenefacts.org/topics/medical&#34;&gt;Medical&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://graphenefacts.org/topics/fringe&#34;&gt;Fringe&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://graphenefacts.org/guides/&#34;&gt;Look up&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Policy</title>
+      <link>https://graphenefacts.org/topics/policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/topics/policy/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;[[topics/policy/2026-09-16-niosh-graphene-exposure|NIOSH workplace exposure measurements]]&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Unverified</title>
+      <link>https://graphenefacts.org/topics/unverified/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/topics/unverified/</guid>
+      <description>&lt;p&gt;Use &lt;strong&gt;[[logs/unsourced]]&lt;/strong&gt; (under [[logs/conspiracies]]). This folder is only for dated file drops in the GitHub archive.&lt;/p&gt;&#xA;&lt;p&gt;Label definition: [[guides/evidence-labels]]&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

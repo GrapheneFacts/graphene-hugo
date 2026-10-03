@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weekly on GrapheneFacts</title>
+    <link>https://graphenefacts.org/tags/weekly/</link>
+    <description>Recent content in Weekly on GrapheneFacts</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://graphenefacts.org/tags/weekly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weekly compile — 2026-W38</title>
+      <link>https://graphenefacts.org/weekly/2026-w38/</link>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/weekly/2026-w38/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Window:&lt;/strong&gt; 9–16 September 2026&lt;br&gt;&#xA;&lt;strong&gt;Published:&lt;/strong&gt; 16 September 2026&lt;/p&gt;&#xA;&lt;p&gt;Items are labeled by evidence quality. Speculation is not treated as fact. See [[guides/evidence-labels]].&lt;/p&gt;&#xA;&lt;p&gt;Related notes: [[topics/engineering/2026-09-15-ucla-graphene-stencil|UCLA stencil]] · [[topics/industry/2026-09-09-gmg-battery-cycling|GMG cycling]] · [[topics/industry/2026-09-10-first-graphene-pacific-urethanes|First Graphene order]] · [[topics/finance/2026-09-15-conovate-doe-award|COnovate DOE]] · [[topics/policy/2026-09-16-niosh-graphene-exposure|NIOSH]] · [[topics/fringe/2026-09-16-go-vaccine-5g-claims|GO/5G claims]] · [[topics/research/2026-09-10-water-dissociation-graphene-vacancy|Vacancy water]] · [[topics/research/2026-09-12-few-layer-graphene-centrifugation|LPE sort]]&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;scientific--technical-developments&#34;&gt;Scientific &amp;amp; Technical Developments&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-graphene-stencil-for-placing-molecules-on-gold&#34;&gt;1. Graphene stencil for placing molecules on gold&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; UCLA (Paul Weiss et al.) used a graphene sheet with tiny holes as a mask on gold so molecules attach only where intended. Published in &lt;em&gt;ACS Nano&lt;/em&gt;.&lt;br&gt;&#xA;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href=&#34;https://www.uclahealth.org/news/release/ucla-scientists-create-graphene-barrier-to-precisely-control-molecules-for-making-nanoelectronics&#34;&gt;UCLA Health release&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Evidence:&lt;/strong&gt; Well-supported&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recurrences on GrapheneFacts</title>
+    <link>https://graphenefacts.org/recurrence/</link>
+    <description>Recent content in Recurrences on GrapheneFacts</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://graphenefacts.org/recurrence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recurrence log</title>
+      <link>https://graphenefacts.org/recurrence/log/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/recurrence/log/</guid>
+      <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;First seen&lt;/th&gt;&#xA;          &lt;th&gt;Last seen&lt;/th&gt;&#xA;          &lt;th&gt;Times noted&lt;/th&gt;&#xA;          &lt;th&gt;Short title&lt;/th&gt;&#xA;          &lt;th&gt;Notes&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2015–2016&lt;/td&gt;&#xA;          &lt;td&gt;2026-09-15&lt;/td&gt;&#xA;          &lt;td&gt;2+ public cycles&lt;/td&gt;&#xA;          &lt;td&gt;Holey graphene molecular stencil (Weiss / UCLA)&lt;/td&gt;&#xA;          &lt;td&gt;Real &lt;em&gt;ACS Nano&lt;/em&gt; paper (2015). Sep 2026 UCLA Health page is recirculation. Long read: [[posts/holey-graphene-molecular-stencil]]&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2021 (era)&lt;/td&gt;&#xA;          &lt;td&gt;2026-09-16&lt;/td&gt;&#xA;          &lt;td&gt;many&lt;/td&gt;&#xA;          &lt;td&gt;GO in COVID vaccines / 5G&lt;/td&gt;&#xA;          &lt;td&gt;See [[topics/fringe/2026-09-16-go-vaccine-5g-claims]]&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2026-05/06&lt;/td&gt;&#xA;          &lt;td&gt;2026-09 (W38)&lt;/td&gt;&#xA;          &lt;td&gt;2+&lt;/td&gt;&#xA;          &lt;td&gt;NIOSH exposure banding&lt;/td&gt;&#xA;          &lt;td&gt;See [[topics/policy/2026-09-16-niosh-graphene-exposure]]&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2026-06&lt;/td&gt;&#xA;          &lt;td&gt;2026-W38&lt;/td&gt;&#xA;          &lt;td&gt;2&lt;/td&gt;&#xA;          &lt;td&gt;HydroGraph Fractal Graphene Paste&lt;/td&gt;&#xA;          &lt;td&gt;Earlier launch; still in roundups&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;When a pull finds something &lt;strong&gt;not new&lt;/strong&gt;: bump last seen; only create a new topic file when there is new evidence.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

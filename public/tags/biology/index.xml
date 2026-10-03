@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biology on GrapheneFacts</title>
+    <link>https://graphenefacts.org/tags/biology/</link>
+    <description>Recent content in Biology on GrapheneFacts</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://graphenefacts.org/tags/biology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biology</title>
+      <link>https://graphenefacts.org/topics/medical/biology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/topics/medical/biology/</guid>
+      <description>&lt;p&gt;Parent: [[topics/medical]]. Exposure numbers and human protocols: [[topics/health]]. Form still decides the result: [[reference/forms]].&lt;/p&gt;&#xA;&lt;h2 id=&#34;already-on-this-archive&#34;&gt;Already on this archive&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Form × route matrix. [[topics/health/form-route]]&lt;/li&gt;&#xA;&lt;li&gt;Occupational and small-human effects. [[topics/health/effects]]&lt;/li&gt;&#xA;&lt;li&gt;Andrews 2024 / NCT03659864 GO inhalation — acute physiology, not ecology.&lt;/li&gt;&#xA;&lt;li&gt;Rodent high-dose lung inflammation / fibrosis &lt;em&gt;trend&lt;/em&gt; in some designs — size, oxidation, metals, respirable fraction. Same effects page.&lt;/li&gt;&#xA;&lt;li&gt;In-vitro antibacterial / antiviral GO pile — large, condition-dependent. [[topics/health/biomedical-catalogue]]&lt;/li&gt;&#xA;&lt;li&gt;GO as a carrier in &lt;em&gt;cells and rodents&lt;/em&gt; (small-molecule, photothermal ideas) — delivery papers, not licensed drugs.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;goals-people-write-down&#34;&gt;Goals people write down&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A sheet that a cell treats as inert at a useful dose.&lt;/li&gt;&#xA;&lt;li&gt;A sheet that a microbe does not ignore (antibacterial coatings, filter media — [[topics/industry/zenguard]] is a &lt;em&gt;coat&lt;/em&gt;, not a drug).&lt;/li&gt;&#xA;&lt;li&gt;Fate and clearance maps for GO vs rGO vs GNP after lung, gut, or skin contact.&lt;/li&gt;&#xA;&lt;li&gt;Plant and soil studies that survive a second lab.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;theories-in-circulation&#34;&gt;Theories in circulation&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;“Pencil lead, therefore biology is done.” Ignores GO vs monolayer vs powder. [[reference/misconceptions]]&lt;/li&gt;&#xA;&lt;li&gt;“One IC50 in a dish predicts a workplace or a vaccine.” Wrong evidence class. [[topics/fringe]]&lt;/li&gt;&#xA;&lt;li&gt;Oxidative-stress / sharp-edge cutting as &lt;em&gt;the&lt;/em&gt; mechanism. Real papers exist; they do not collapse to one slogan.&lt;/li&gt;&#xA;&lt;li&gt;Bioaccumulation as a cover-up story. Documented on [[logs/conspiracies]], not here as fact.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;projections-forecast-language&#34;&gt;Projections (forecast language)&lt;/h2&gt;&#xA;&lt;p&gt;Reviews keep projecting biodegradable graphene, DNA–graphene scaffolds, and “green” GO from biomass. Treat as slides until there is an NCT number or a regulator text. Market-size “graphene healthcare” figures stay [[logs/unsourced]] unless the house and the definition are quoted.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

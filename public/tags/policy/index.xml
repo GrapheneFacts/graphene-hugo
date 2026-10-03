@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Policy on GrapheneFacts</title>
+    <link>https://graphenefacts.org/tags/policy/</link>
+    <description>Recent content in Policy on GrapheneFacts</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://graphenefacts.org/tags/policy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NIOSH graphene workplace exposure measurements</title>
+      <link>https://graphenefacts.org/topics/policy/2026-09-16-niosh-graphene-exposure/</link>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/topics/policy/2026-09-16-niosh-graphene-exposure/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Evidence:&lt;/strong&gt; Well-supported occupational data; 10 µg/m³ is a band, not an OSHA PEL&lt;/p&gt;&#xA;&lt;p&gt;NIOSH sampled workers at 11 US graphene producers/users. Many samples exceeded a conservative occupational exposure band of &lt;strong&gt;10 µg/m³&lt;/strong&gt; when dry powder was handled. Recommendation: supply graphene in masterbatch/liquid rather than loose powder. No reported human disease cluster tied to these data.&lt;/p&gt;&#xA;&lt;p&gt;See [[recurrence/log]] and [[weekly/2026-W38]].&lt;/p&gt;&#xA;&lt;p&gt;Archive file: &lt;a href=&#34;https://github.com/GrapheneFacts/graphene-archive/blob/main/topics/policy/2026-09-16-niosh-graphene-exposure.md&#34;&gt;topics/policy/2026-09-16-niosh-graphene-exposure.md&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Occupational graphene exposure (NIOSH context)</title>
+      <link>https://graphenefacts.org/topics/health/2026-09-16-niosh-exposure-context/</link>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/topics/health/2026-09-16-niosh-exposure-context/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Evidence:&lt;/strong&gt; Well-supported as hygiene measurements&lt;/p&gt;&#xA;&lt;p&gt;See [[topics/policy/2026-09-16-niosh-graphene-exposure]].&lt;/p&gt;&#xA;&lt;p&gt;Archive file: &lt;a href=&#34;https://github.com/GrapheneFacts/graphene-archive/blob/main/topics/health/2026-09-16-niosh-exposure-context.md&#34;&gt;topics/health/2026-09-16-niosh-exposure-context.md&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2023</title>
+      <link>https://graphenefacts.org/timeline/2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/timeline/2023/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Evidence:&lt;/strong&gt; Named papers and company notices. Flagship instrument names belong on the Commission page, not a blog paraphrase.&lt;/p&gt;&#xA;&lt;h2 id=&#34;twist--proximity&#34;&gt;Twist / proximity&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Zhou et al., &lt;em&gt;Nature&lt;/em&gt; &lt;strong&gt;613&lt;/strong&gt;, 268 (2023). Bernal bilayer graphene + WSe₂: SC at &lt;strong&gt;zero field&lt;/strong&gt;, Tc up ~&lt;strong&gt;10×&lt;/strong&gt; vs the fragile ~30 mK window without WSe₂ in that comparison; density window ~8× wider. Only when the field pushes holes toward WSe₂ (Ising SOC story).&lt;/li&gt;&#xA;&lt;li&gt;Su, Kuiri, et al., &lt;em&gt;Nat. Mater.&lt;/em&gt; &lt;strong&gt;22&lt;/strong&gt;, 1332 (2023). Twisted &lt;strong&gt;double bilayer&lt;/strong&gt; + WSe₂ superconducts in small pockets at &lt;strong&gt;1.24°&lt;/strong&gt; and &lt;strong&gt;1.37°&lt;/strong&gt;. TDBG without the dichalcogenide had been the missing cousin.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Still fridge stacks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2013</title>
+      <link>https://graphenefacts.org/timeline/2013/</link>
+      <pubDate>Mon, 28 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/timeline/2013/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Evidence:&lt;/strong&gt; Commission / Chalmers for the Flagship. AIM notice for AGM. Photonics papers as named.&lt;/p&gt;&#xA;&lt;h2 id=&#34;flagship-dates-do-not-collapse&#34;&gt;Flagship dates (do not collapse)&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;28 January 2013:&lt;/strong&gt; Graphene named a FET Flagship. Chalmers / &lt;strong&gt;Jari Kinaret&lt;/strong&gt;. Initial ~30-month EC &lt;strong&gt;€54 million&lt;/strong&gt;. GRAPHENE 604391.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;10–11 October 2013:&lt;/strong&gt; kickoff at Chalmers. €1 billion over ten years is a programme class, not a 2013 deposit.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;photonics-cluster&#34;&gt;Photonics cluster&lt;/h2&gt;&#xA;&lt;p&gt;September 2013 &lt;em&gt;Nature Photonics&lt;/em&gt; cluster (three independent groups in the same issue window):&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Policy</title>
+      <link>https://graphenefacts.org/topics/policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/topics/policy/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;[[topics/policy/2026-09-16-niosh-graphene-exposure|NIOSH workplace exposure measurements]]&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

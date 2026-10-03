@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>History on GrapheneFacts</title>
+    <link>https://graphenefacts.org/tags/history/</link>
+    <description>Recent content in History on GrapheneFacts</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 1859 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://graphenefacts.org/tags/history/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Before 1900</title>
+      <link>https://graphenefacts.org/timeline/before-1900/</link>
+      <pubDate>Sat, 01 Jan 1859 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/timeline/before-1900/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Evidence:&lt;/strong&gt; Well-supported historical consensus&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-before-graphene-actually-contains&#34;&gt;What “before graphene” actually contains&lt;/h2&gt;&#xA;&lt;p&gt;People used &lt;strong&gt;graphite&lt;/strong&gt; for centuries — marks on surfaces, lubrication, crucibles, later electrodes and moderator blocks. That is three-dimensional stacked carbon. The modern graphene story is not “humanity discovered carbon sheets in 2004.” It is: when did a &lt;em&gt;single&lt;/em&gt; honeycomb sheet become an object you could isolate, identify, and measure as a 2D electronic system?&lt;/p&gt;&#xA;&lt;p&gt;The 19th century answers a different question: when did chemists start taking graphite apart &lt;em&gt;between the layers&lt;/em&gt;?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1900–1946</title>
+      <link>https://graphenefacts.org/timeline/1900-1946/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/timeline/1900-1946/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Evidence:&lt;/strong&gt; Well-supported historical consensus&lt;/p&gt;&#xA;&lt;h2 id=&#34;crystallography&#34;&gt;Crystallography&lt;/h2&gt;&#xA;&lt;p&gt;Early 20th-century X-ray work settles graphite as stacked honeycomb sheets of carbon — a 3D crystal built from 2D units. That picture is what later lets Wallace treat &lt;em&gt;one&lt;/em&gt; sheet as a Hamiltonian ([[timeline/1947]]).&lt;/p&gt;&#xA;&lt;h2 id=&#34;oxide-line-continues&#34;&gt;Oxide line continues&lt;/h2&gt;&#xA;&lt;p&gt;Brodie-style oxidation does not freeze in 1859. Papers and “graphite oxide paper” products through the 1910s keep the chemical route alive. This is still lamellar oxide, not a gated monolayer device.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pre-chemistry — graphite before laboratories</title>
+      <link>https://graphenefacts.org/timeline/pre-chemistry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/timeline/pre-chemistry/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Evidence:&lt;/strong&gt; Well-supported at the level of mining and craft history; specific ancient identifications of “graphite vs molybdenite vs galena” are often later reconstructions.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-this-page-is&#34;&gt;What this page is&lt;/h2&gt;&#xA;&lt;p&gt;Before there is a chemist named Brodie, there is a slippery black solid people write with and grease with. They do not have the word &lt;strong&gt;graphene&lt;/strong&gt;. They often do not even have a clean distinction between graphite and look-alike minerals.&lt;/p&gt;&#xA;&lt;p&gt;This is the floor of the timeline. Monday posts can start here when the hook is “graphene is new; carbon sheets are not.”&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

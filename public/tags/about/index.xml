@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on GrapheneFacts</title>
+    <link>https://graphenefacts.org/tags/about/</link>
+    <description>Recent content in About on GrapheneFacts</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://graphenefacts.org/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://graphenefacts.org/about/</link>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/about/</guid>
+      <description>&lt;p&gt;Public knowledge base on graphene-family materials. Meant to remain useful if the X account goes quiet.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:contact@graphenefacts.org&#34;&gt;contact@graphenefacts.org&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;X: &lt;a href=&#34;https://x.com/GrapheneFacts&#34;&gt;@GrapheneFacts&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Official terms: [[notice|Notice]]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;layers&#34;&gt;Layers&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[[reference/index|Reference]] · [[timeline/index|Timeline]] · weeklies and topic files&lt;/li&gt;&#xA;&lt;li&gt;File archive: &lt;a href=&#34;https://github.com/GrapheneFacts/graphene-archive&#34;&gt;graphene-archive&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Engine: &lt;a href=&#34;https://github.com/GrapheneFacts/quartz&#34;&gt;quartz&lt;/a&gt; (&lt;code&gt;v5&lt;/code&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

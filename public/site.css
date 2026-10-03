@@ -1,0 +1,10 @@
+body { margin: 0; background: #f4f1ea; color: #1c1917; font: 18px/1.45 Georgia, serif; }
+header, main, footer { max-width: 40rem; margin: 0 auto; padding: 1rem 1.1rem; }
+header { display: flex; justify-content: space-between; align-items: baseline; border-bottom: 1px solid #e4dfd4; }
+header a { color: #3d5a4c; font-weight: 700; font-size: 1.35rem; text-decoration: none; }
+header span, footer { color: #6e6a62; font-family: system-ui, sans-serif; font-size: .85rem; }
+footer a, .doors a, article a, .mail a { color: #3d5a4c; }
+.doors { padding-left: 1.3rem; }
+.doors li { margin: .45rem 0; }
+article h1 { font-size: 1.8rem; }
+img { max-width: 100%; height: auto; }

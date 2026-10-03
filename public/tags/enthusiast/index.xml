@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enthusiast on GrapheneFacts</title>
+    <link>https://graphenefacts.org/tags/enthusiast/</link>
+    <description>Recent content in Enthusiast on GrapheneFacts</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://graphenefacts.org/tags/enthusiast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Holey graphene as a molecular stencil</title>
+      <link>https://graphenefacts.org/posts/holey-graphene-molecular-stencil/</link>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/posts/holey-graphene-molecular-stencil/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Evidence:&lt;/strong&gt; Well-supported (peer-reviewed method paper). The mid-September 2026 news cycle is a &lt;strong&gt;recurrence&lt;/strong&gt;, not a new isolation of graphene.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Related notes:&lt;/strong&gt; [[topics/engineering/2026-09-15-ucla-graphene-stencil]] · [[weekly/2026-W38]] · [[recurrence/log]] · [[timeline/2004]]&lt;/p&gt;&#xA;&lt;h2 id=&#34;if-you-only-remember-five-facts&#34;&gt;If you only remember five facts&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;The method is a &lt;strong&gt;mask&lt;/strong&gt;: graphene covers gold except at engineered holes; thiol-bearing molecules bind gold in the holes and are blocked where intact graphene sits.&lt;/li&gt;&#xA;&lt;li&gt;The landmark paper is Thomas et al., &lt;em&gt;ACS Nano&lt;/em&gt; &lt;strong&gt;9&lt;/strong&gt;, 10909 (2015), DOI &lt;a href=&#34;https://doi.org/10.1021/acsnano.5b03936&#34;&gt;10.1021/acsnano.5b03936&lt;/a&gt; — “Holey Graphene as a Weed Barrier for Molecules.”&lt;/li&gt;&#xA;&lt;li&gt;UCLA Health recirculated the same press framing on &lt;strong&gt;14–15 September 2026&lt;/strong&gt;. Authors named in that release match the 2015 paper (Paul Weiss, John Thomas, Shan Jiang, Nathan Weiss, Xiangfeng Duan, plus Caltech theory from Gethers and Goddard).&lt;/li&gt;&#xA;&lt;li&gt;Goal stated by the team: patterned &lt;strong&gt;nanoelectronic / biosensor&lt;/strong&gt; surfaces, including devices small enough in principle to think about recording brain-relevant signals. That is a research aim, not a shipped implant.&lt;/li&gt;&#xA;&lt;li&gt;Graphene here is used for what it &lt;em&gt;blocks&lt;/em&gt; (a chemically quiet lid) as much as for what it conducts.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;what-stencil-means-in-this-lab&#34;&gt;What “stencil” means in this lab&lt;/h2&gt;&#xA;&lt;p&gt;Chemists have long known how to stick molecules to &lt;strong&gt;gold&lt;/strong&gt;. A thiol (–SH) head group binds Au strongly and can form a self-assembled monolayer (SAM). That is a feature and a problem: gold will accept those molecules almost everywhere the surface is clean. If you want a &lt;em&gt;pattern&lt;/em&gt; — molecules only in 20-nanometre-class patches, not a uniform film — you need a mask.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

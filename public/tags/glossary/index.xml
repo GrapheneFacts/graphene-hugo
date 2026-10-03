@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glossary on GrapheneFacts</title>
+    <link>https://graphenefacts.org/tags/glossary/</link>
+    <description>Recent content in Glossary on GrapheneFacts</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://graphenefacts.org/tags/glossary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Glossary</title>
+      <link>https://graphenefacts.org/guides/glossary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/guides/glossary/</guid>
+      <description>&lt;p&gt;Parent: [[guides/index|Look up]]. Labels: [[guides/evidence-labels]]. ISO wording: [[reference/iso-vocabulary]].&lt;/p&gt;&#xA;&lt;p&gt;How to read an entry: headword; what it is; &lt;em&gt;see also&lt;/em&gt; near-terms; &lt;em&gt;here&lt;/em&gt; for the page that uses it.&lt;/p&gt;&#xA;&lt;h2 id=&#34;a&#34;&gt;A&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;ABC trilayer&lt;/strong&gt; &lt;em&gt;n.&lt;/em&gt; Three graphene sheets stacked rhombohedrally (A-B-C). Not magic-angle bilayer. &lt;em&gt;See also&lt;/em&gt; MATBG; moiré. &lt;em&gt;Here&lt;/em&gt; [[timeline/2019]].&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;AIM&lt;/strong&gt; &lt;em&gt;n.&lt;/em&gt; London Stock Exchange junior market. &lt;em&gt;See also&lt;/em&gt; ASX; NEEQ; TSX. &lt;em&gt;Here&lt;/em&gt; [[topics/finance/listings]].&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;anomalous Hall crystal&lt;/strong&gt; &lt;em&gt;n.&lt;/em&gt; Electronic crystal with a topological Hall response; 2025 twisted-stack report. &lt;em&gt;See also&lt;/em&gt; moiré. &lt;em&gt;Here&lt;/em&gt; [[timeline/2025]].&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

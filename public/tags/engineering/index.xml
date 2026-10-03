@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Engineering on GrapheneFacts</title>
+    <link>https://graphenefacts.org/tags/engineering/</link>
+    <description>Recent content in Engineering on GrapheneFacts</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://graphenefacts.org/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NSPP plasma-water graphene oxide</title>
+      <link>https://graphenefacts.org/posts/nspp-plasma-water-go/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/posts/nspp-plasma-water-go/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Evidence:&lt;/strong&gt; Well-supported for the lab method (peer-reviewed). Cost, tonne-scale, and “replaces graphite” claims are Preliminary. The 1 Oct 2026 Chemical Engineering item is a recurrence of a paper accepted February 2026.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Related notes:&lt;/strong&gt; [[guides/glossary|NSPP]] · [[topics/health/form-route|GO]] · [[reference/production]]&lt;/p&gt;&#xA;&lt;h2 id=&#34;five-facts&#34;&gt;Five facts&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Banavath et al. grow graphene oxide at a methane–water interface with a non-thermal atmospheric nanosecond pulsed plasma (NSPP). No mined graphite, no Hummers acids.&lt;/li&gt;&#xA;&lt;li&gt;Journal: &lt;em&gt;Nature Communications&lt;/em&gt;, DOI &lt;a href=&#34;https://doi.org/10.1038/s41467-026-69831-0&#34;&gt;10.1038/s41467-026-69831-0&lt;/a&gt;. Received 9 Aug 2025, accepted 9 Feb 2026. Texas A&amp;amp;M plus LTEOIL (College Station).&lt;/li&gt;&#xA;&lt;li&gt;Reported lab rate: a four-gap reactor up to about 5 g GO per day. That is a bench scale-up, not a plant.&lt;/li&gt;&#xA;&lt;li&gt;Hydrogen is the co-product. The project started as a hydrogen effort; carbon sheets were the unexpected high-value solid.&lt;/li&gt;&#xA;&lt;li&gt;Trade coverage on 1 Oct 2026 (Chemical Engineering) restates the July 2026 university release. It is not a new experiment.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;what-the-process-is&#34;&gt;What the process is&lt;/h2&gt;&#xA;&lt;p&gt;Conventional GO starts with graphite, oxidizes it (Brodie, Staudenmaier, Hummers and variants), then exfoliates. That route needs concentrated acids and leaves a waste stream.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Holey graphene as a molecular stencil</title>
+      <link>https://graphenefacts.org/posts/holey-graphene-molecular-stencil/</link>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/posts/holey-graphene-molecular-stencil/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Evidence:&lt;/strong&gt; Well-supported (peer-reviewed method paper). The mid-September 2026 news cycle is a &lt;strong&gt;recurrence&lt;/strong&gt;, not a new isolation of graphene.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Related notes:&lt;/strong&gt; [[topics/engineering/2026-09-15-ucla-graphene-stencil]] · [[weekly/2026-W38]] · [[recurrence/log]] · [[timeline/2004]]&lt;/p&gt;&#xA;&lt;h2 id=&#34;if-you-only-remember-five-facts&#34;&gt;If you only remember five facts&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;The method is a &lt;strong&gt;mask&lt;/strong&gt;: graphene covers gold except at engineered holes; thiol-bearing molecules bind gold in the holes and are blocked where intact graphene sits.&lt;/li&gt;&#xA;&lt;li&gt;The landmark paper is Thomas et al., &lt;em&gt;ACS Nano&lt;/em&gt; &lt;strong&gt;9&lt;/strong&gt;, 10909 (2015), DOI &lt;a href=&#34;https://doi.org/10.1021/acsnano.5b03936&#34;&gt;10.1021/acsnano.5b03936&lt;/a&gt; — “Holey Graphene as a Weed Barrier for Molecules.”&lt;/li&gt;&#xA;&lt;li&gt;UCLA Health recirculated the same press framing on &lt;strong&gt;14–15 September 2026&lt;/strong&gt;. Authors named in that release match the 2015 paper (Paul Weiss, John Thomas, Shan Jiang, Nathan Weiss, Xiangfeng Duan, plus Caltech theory from Gethers and Goddard).&lt;/li&gt;&#xA;&lt;li&gt;Goal stated by the team: patterned &lt;strong&gt;nanoelectronic / biosensor&lt;/strong&gt; surfaces, including devices small enough in principle to think about recording brain-relevant signals. That is a research aim, not a shipped implant.&lt;/li&gt;&#xA;&lt;li&gt;Graphene here is used for what it &lt;em&gt;blocks&lt;/em&gt; (a chemically quiet lid) as much as for what it conducts.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;what-stencil-means-in-this-lab&#34;&gt;What “stencil” means in this lab&lt;/h2&gt;&#xA;&lt;p&gt;Chemists have long known how to stick molecules to &lt;strong&gt;gold&lt;/strong&gt;. A thiol (–SH) head group binds Au strongly and can form a self-assembled monolayer (SAM). That is a feature and a problem: gold will accept those molecules almost everywhere the surface is clean. If you want a &lt;em&gt;pattern&lt;/em&gt; — molecules only in 20-nanometre-class patches, not a uniform film — you need a mask.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>UCLA graphene stencil for molecular patterning</title>
+      <link>https://graphenefacts.org/topics/engineering/2026-09-15-ucla-graphene-stencil/</link>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/topics/engineering/2026-09-15-ucla-graphene-stencil/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Evidence:&lt;/strong&gt; Well-supported (2015 paper). &lt;strong&gt;2026 appearance:&lt;/strong&gt; Recurrence.&lt;/p&gt;&#xA;&lt;p&gt;Full write-up: [[posts/holey-graphene-molecular-stencil]]&lt;/p&gt;&#xA;&lt;p&gt;Graphene mask with holes on gold places molecules only where intended. Landmark: Thomas et al., &lt;em&gt;ACS Nano&lt;/em&gt; 2015, DOI 10.1021/acsnano.5b03936. UCLA Health reran the institutional story on 14–15 Sep 2026.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; &lt;a href=&#34;https://www.uclahealth.org/news/release/ucla-scientists-create-graphene-barrier-to-precisely-control-molecules-for-making-nanoelectronics&#34;&gt;UCLA Health&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Week context: [[weekly/2026-W38]] · [[recurrence/log]]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GMG G®CELLS long-life fast-charge cycling data</title>
+      <link>https://graphenefacts.org/topics/industry/2026-09-09-gmg-battery-cycling/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/topics/industry/2026-09-09-gmg-battery-cycling/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Evidence:&lt;/strong&gt; Preliminary (small-cell third-party test)&lt;/p&gt;&#xA;&lt;p&gt;BIC-tested 1 Ah cells: 489 cycles at 10C/10C with no measured fade; LTO benchmark near end-of-life by ~64 cycles under the same profile. Energy density still being optimized.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; &lt;a href=&#34;https://graphenemg.com/gmg-announces-long-life-battery-cycling-data/&#34;&gt;GMG&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Full week: [[weekly/2026-W38]]&lt;/p&gt;&#xA;&lt;p&gt;Archive file: &lt;a href=&#34;https://github.com/GrapheneFacts/graphene-archive/blob/main/topics/industry/2026-09-09-gmg-battery-cycling.md&#34;&gt;topics/industry/2026-09-09-gmg-battery-cycling.md&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bio-mechanical</title>
+      <link>https://graphenefacts.org/topics/medical/biomechanical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/topics/medical/biomechanical/</guid>
+      <description>&lt;p&gt;Parent: [[topics/medical]]. Human device and exposure rows already filed: [[topics/health/biomedical-catalogue]]. Patterning paper: [[posts/holey-graphene-molecular-stencil]].&lt;/p&gt;&#xA;&lt;h2 id=&#34;already-on-this-archive&#34;&gt;Already on this archive&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;INBRAIN cortical interface, NCT06368310 — first-in-human intraoperative use; small set; Preliminary device data. [[topics/health/effects]]&lt;/li&gt;&#xA;&lt;li&gt;Graphene / GO / GFET electrode and biosensor literature — high paper count, few cleared instruments.&lt;/li&gt;&#xA;&lt;li&gt;Oriented GO/PCL fibres and conductive scaffolds — rat sciatic-gap and in-vitro axon-length reports. Animal. Preliminary translation.&lt;/li&gt;&#xA;&lt;li&gt;Holey graphene as a molecular stencil on gold (2015) — fabrication toward sensors, not an implant.&lt;/li&gt;&#xA;&lt;li&gt;Directa G+ textile membranes and printed thermal circuits — garments, not implants. [[topics/industry/directa-gplus]]&lt;/li&gt;&#xA;&lt;li&gt;ZenGUARD on mask and HVAC media — coat on a filter, not a neural thread. [[topics/industry/zenguard]]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;goals-people-write-down&#34;&gt;Goals people write down&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A cortical or peripheral electrode that records or stimulates without a stainless-steel penalty in flexibility or site area.&lt;/li&gt;&#xA;&lt;li&gt;A scaffold that is conductive enough for cells and resorbable enough for a surgeon.&lt;/li&gt;&#xA;&lt;li&gt;A wearable (tattoo, textile, microneedle) that lasts a shift, not a press cycle.&lt;/li&gt;&#xA;&lt;li&gt;Closed-loop interfaces. Still a review-article sentence in 2025–26.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;theories-in-circulation&#34;&gt;Theories in circulation&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;“Graphene replaces silicon in diagnostics this decade.” Same foundry problem as the electronics pitch. [[logs/theories]]&lt;/li&gt;&#xA;&lt;li&gt;A patterning paper “will treat” a named disease this cycle. Motivation language. [[logs/unsourced]]&lt;/li&gt;&#xA;&lt;li&gt;Long-term implant / IV GO is solved. 2025–26 reviews still list cytotoxicity, dose, metals, and fate as open.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;projections-forecast-language&#34;&gt;Projections (forecast language)&lt;/h2&gt;&#xA;&lt;p&gt;Patient-specific printed grafts, smart microneedles, injectable graphene, AI-designed scaffolds — review-article futures. They sit next to the NCT table, not in place of it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Engineering</title>
+      <link>https://graphenefacts.org/topics/engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://graphenefacts.org/topics/engineering/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;[[posts/holey-graphene-molecular-stencil|Holey graphene as a molecular stencil]] (long read)&lt;/li&gt;&#xA;&lt;li&gt;[[topics/engineering/2026-09-15-ucla-graphene-stencil|UCLA stencil — short note]]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;See also [[weekly/2026-W38]].&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
