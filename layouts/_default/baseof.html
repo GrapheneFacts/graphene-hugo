@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}GrapheneFacts{{ else }}{{ .Title }} — GrapheneFacts{{ end }}</title>
+  <link rel="stylesheet" href="{{ "site.css" | relURL }}">
+</head>
+<body>
+<header>
+  <a href="{{ "/" | relURL }}">GrapheneFacts</a>
+  <span>{{ if .IsHome }}Archive{{ else }}{{ .Title }}{{ end }}</span>
+</header>
+<main>
+  {{ block "main" . }}{{ end }}
+</main>
+<footer>
+  <a href="mailto:contact@graphenefacts.org">contact@graphenefacts.org</a>
+  · <a href="https://github.com/GrapheneFacts/graphene-archive">Public archive</a>
+  · <a href="https://x.com/GrapheneFacts">X</a>
+</footer>
+</body>
+</html>

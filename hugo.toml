@@ -1,0 +1,13 @@
+baseURL = "https://graphenefacts.org/"
+languageCode = "en-us"
+title = "GrapheneFacts"
+enableRobotsTXT = true
+
+[params]
+  description = "A readable archive of graphene-family materials."
+  contact = "contact@graphenefacts.org"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
