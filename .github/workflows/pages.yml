@@ -15,7 +15,7 @@ jobs:
         with:
           hugo-version: "0.139.0"
           extended: true
-      - run: hugo --minify --baseURL "https://graphenefacts.github.io/graphene-hugo/"
+      - run: hugo --minify --baseURL "https://graphenefacts.org/"
       - uses: actions/upload-pages-artifact@v3
         with:
           path: public
