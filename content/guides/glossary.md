@@ -34,7 +34,11 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 
 **Campra report** *n.* Unofficial 2021 micro-Raman note by Pablo Campra Madrid on a courier vial he said was untraced. University of Almería did not endorse it. Not a peer-reviewed finding of GO in authorized COVID-19 vaccines. *See also* La Quinta Columna; GO; Fringe. *Here* [[topics/fringe/2026-09-16-go-vaccine-5g-claims]].
 
+**chemtrail GO claim** *n.* Recurring claim that persistent aircraft trails are graphene-oxide sprays, often tied to a vaccine fill and 5G/6G activation. Posts on 7–9 Oct 2026 added no lot assay or altitude sample. *See also* Campra report; La Quinta Columna; Fringe; GO. *Here* [[topics/fringe/2026-09-16-go-vaccine-5g-claims]].
+
 **CVD** *n.* Chemical vapor deposition. Commonly carbon on copper, then transfer. *See also* R2R CVD; SiC epitaxy; LPE. *Here* [[topics/manufacturing/graphenea]].
+
+**CSD** *(cortical spreading depolarization)* *n.* Slow, near-complete depolarization wave across cortex. Flaherty et al., *Brain* 2026, used graphene transistor arrays to tie waveform shape to perfusion in mouse stroke models. Not a treatment. *See also* gSGFET; INBRAIN. *Here* [[posts/gsgfet-stroke-csd-2026]].
 
 ## D
 
@@ -56,6 +60,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 
 **few-layer graphene** *(FLG)* *n.* A few atomic sheets, often about 2–10. *See also* GNP; monolayer; GR2M. *Here* [[reference/iso-vocabulary]].
 
+**Fractal Graphene Paste** *n.* HydroGraph aqueous dispersion mark, stated at 20 wt% graphene, flowable, shelf life claimed above two years. Company product language, Oct 2026. *See also* masterbatch; GNP.
+
 **Fringe** *n.* A plot-style narrative logged so it does not sit on Science or Medical as fact. *See also* Unverified. *Antonym-ish* Well-supported. *Here* [[topics/fringe]].
 
 ## G
@@ -71,6 +77,10 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 **GR2M** *n.* Graphene-related 2D material; ISO/TS 80004-13:2024 umbrella term. *See also* graphene; GNP; GO. *Here* [[reference/iso-vocabulary]].
 
 **graphene** *n.* One-atom honeycomb carbon. Name mid-1980s; isolation-and-gate 2004. *See also* GR2M; graphite; monolayer. *Here* [[timeline/2004]].
+
+**graphene hydroxide** *n.* Not an ISO term. Label used in 2021 videos after the GO-in-vial claim. Not on authorized COVID-19 vaccine ingredient lists. *See also* GO; Campra report; Fringe. *Here* [[topics/fringe/2026-09-16-go-vaccine-5g-claims]].
+
+**gSGFET** *n.* Graphene solution-gated field-effect transistor. Electrolyte is the gate; channel current reports local potential, including infraslow. CVD graphene on polyimide in the IMB-CNM / ICN2 stack. Not GO. *See also* CVD; INBRAIN; CSD. *Here* [[posts/gsgfet-stroke-csd-2026]].
 
 **GrapheneBlack** *n.* NanoXplore powder mark. *See also* PureGRAPH; G+. *Here* [[topics/manufacturing/nanoxplore-saint-laurent]].
 
@@ -96,9 +106,19 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 
 **JustHeat** *n.* Haydale printed graphene-ink underfloor panel. Install guide: 600 × 530 mm, 62 W at 48 V. *See also* SETTF; R2R CVD. *Here* [[topics/industry/justheat]].
 
+## K
+
+**K-sputtering** *n.* KERI direct-current sputter process reported 27 Sep 2026. Grows aligned graphene through multilayer graphite on a substrate at room temperature, without a transfer heat step. Institute release; not an ISO term. *See also* CVD; LPE.
+
 ## L
 
+**La Quinta Columna** *n.* Spanish site that commissioned the 2021 Campra courier-vial note. Distribution node for the GO-in-vaccine plot, not a metrology lab. *See also* Campra report; Fringe. *Here* [[topics/fringe/2026-09-16-go-vaccine-5g-claims]].
+
+**LOOP** *n.* Levidian microwave-plasma unit that splits methane into solid carbon (sold as graphene) and a hydrogen-rich gas. Catalyst-free and water-free on the company description. Sizes named LOOP 20, 60, 100. Not a plasma torch. *See also* CVD; Sharjah Graphene Park.
+
 **LPE** *n.* Liquid-phase exfoliation. *See also* CVD; mechanical cleavage.
+
+**LSG** *n.* Large-area suspended graphene. Few-nanometer free-standing film used as a laser-ion target (Osaka, PTEP, 2 Oct 2026). Proton surfing is the team’s name for the long ride on the moving field. *See also* graphene; monolayer.
 
 ## M
 
@@ -111,6 +131,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 **MATTG** *n.* Magic-angle twisted trilayer graphene. *See also* MATBG; Pauli limit. *Here* [[timeline/2021]].
 
 **mechanical cleavage** *n.* The 2004 Manchester peel (“Scotch tape”). *See also* CVD; LPE.
+
+**MINIGRAPH** *n.* EIC project (INBRAIN, Nanoflex Robotics, ETH Zürich) on magnetically steered ultra-thin graphene neural probes. 7 Oct 2026 completion press: bench and large animal, not a human implant report. *See also* INBRAIN; gSGFET. *Here* [[posts/gsgfet-stroke-csd-2026]].
 
 **Mermin–Wagner** *n.* Theorem often mis-used to say free-standing 2D crystals cannot exist. *Here* [[timeline/1963-2003]].
 
@@ -136,9 +158,13 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 
 **PEL** *n.* OSHA permissible exposure limit. The 10 µg/m³ figure on this site is a *band*, not a PEL. *See also* band.
 
+**Peltyr** *n.* Vector Companies printed heat-flux sensor line launched Sep 2026 using First Graphene PureGRAPH. Thirty-six-month partner agreement; purchase orders are separate. *See also* PureGRAPH.
+
 **Preliminary** *adj.* Evidence label: preprint, company lab, pilot, or company-stated tonnes. *See also* Well-supported; Unverified.
 
-**PureGRAPH** *n.* First Graphene nanoplatelet mark. *See also* G+; GrapheneBlack. *Here* [[topics/manufacturing/first-graphene-henderson]].
+**prepreg** *n.* Fibre already infused with partially cured resin, then laid and cured. Graphene loading is into the resin, not a new fibre. *See also* PureGRAPH; GNP.
+
+**PureGRAPH** *n.* First Graphene nanoplatelet mark. *See also* G+; GrapheneBlack; Peltyr. *Here* [[topics/manufacturing/first-graphene-henderson]].
 
 ## R
 
@@ -151,6 +177,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 ## S
 
 **SETTF** *n.* Haydale Super-Efficient Thermal Transfer Fluid. Partner-test language; Preliminary. *See also* JustHeat. *Here* [[topics/industry/haydale-settf]].
+
+**Sharjah Graphene Park** *n.* Dana Gas–Levidian manufacturing site in Sharjah. First LOOP 20 commissioned 7 Oct 2026; company states >1 t/yr, next units aimed at >10 t/yr. *See also* LOOP.
 
 **SiC epitaxy** *n.* Heat silicon carbide until silicon leaves and carbon reorders. Van Bommel 1975. *See also* CVD. *Here* [[timeline/1963-2003]].
 
