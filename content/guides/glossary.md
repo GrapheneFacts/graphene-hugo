@@ -24,6 +24,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 
 ## B
 
+**ballistic transverse thermoelectric effect** *(BTTE)* *n.* Transverse thermoelectric response in graphene nanostructures at room temperature and zero magnetic field, enabled by asymmetric scattering of ballistic carriers. Han et al., Nature Communications 3 Nov 2026: transverse Seebeck 27.9 μV K⁻¹, power factor ~35.8 μW cm⁻¹ K⁻². Voltage polarity retained on gradient reversal. *See also* graphene.
+
 **band** *(exposure)* *n.* A hygiene working range, not an OSHA PEL. On this site the cited figure is often 10 µg/m³. *See also* PEL; NIOSH. *Here* [[topics/health/effects]].
 
 **Boehm** *n.* Hanns-Peter Boehm; 1962 reduced-oxide monolayer work; later naming. *See also* Brodie; graphene. *Here* [[timeline/1962]].
@@ -65,6 +67,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 **f_T** *n.* FET current-gain cut-off frequency. IBM 100 GHz (2010) and 155 GHz (2011) are f_T figures, not phone chips. *See also* FET Flagship. *Here* [[timeline/2011]].
 
 **FET Flagship** *n.* EU research programme; Graphene named 28 Jan 2013. *Here* [[timeline/2013]].
+
+**ferroelectric orbital magnetism** *n.* Orbital magnetic order coupled to spontaneous electric polarization in rhombohedral hexalayer graphene. Deng, Xie, Li, Liu et al., Nature Physics 2026: sharp unipolar electric-field switching and electric-field-reversible magnetic hysteresis in the semimetallic regime. Distinct from near-zero-field multiferroicity. *See also* rhombohedral hexalayer graphene.
 
 **few-layer graphene** *(FLG)* *n.* A few atomic sheets, often about 2–10. *See also* GNP; monolayer; GR2M. *Here* [[reference/iso-vocabulary]].
 
@@ -191,6 +195,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 **remote moiré modulation** *n.* Electrostatic transmission of a moiré pattern’s influence to a spatially separated graphene layer without direct electron hopping. Kim et al., ACS Nano (online 1 Oct 2026). *See also* moiré; hBN.
 
 **rGO** *n.* Reduced graphene oxide. *See also* GO.
+
+**rhombohedral hexalayer graphene** *n.* Six graphene layers in rhombohedral (ABCABC…) stacking. Deng et al., Nature Physics 21 Oct 2026: in the semimetallic (overlapping band) regime, hosts correlated insulators, dual-carrier superconducting-like pockets, and multiferroic orbital magnetic orders including ferroelectric orbital magnetism. *See also* graphene.
 
 **REACH** *n.* EU chemical-registration regime.
 
