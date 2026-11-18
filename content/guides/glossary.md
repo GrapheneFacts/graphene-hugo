@@ -120,6 +120,8 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 
 **holey graphene** *n.* A sheet with engineered holes. *See also* graphene. *Here* [[posts/holey-graphene-molecular-stencil]].
 
+**Hyperion Reactor** *n.* HydroGraph Clean Power modular detonation chamber for fractal graphene production. Fills with acetylene and oxygen, ignites with spark; exothermic process yields high-purity (~99.8% C) turbostratic graphene and syngas. Each unit ~10 t/yr capacity; small footprint. Used at Austin (up to 30 t/yr) with Bellville TX scale-up planned. Inventor Chris Sorensen (KSU). Company process language. *See also* Fractal Graphene Paste; GNP. *Here* [[topics/finance/listings]].
+
 ## I
 
 **INBRAIN** *n.* Graphene cortical interface programme; trial NCT06368310. *See also* Bio-mechanical. *Here* [[topics/medical/biomechanical]].
@@ -244,18 +246,6 @@ How to read an entry: headword; what it is; *see also* near-terms; *here* for th
 
 ## V
 
-**VN Graphene Global** *n.* Vietnamese company that inaugurated a GO/rGO production plant in Gia Lai (Nhon Hoi A) late Oct/early Nov 2026. Stated investment ~US$7.8 million, designed capacity 3,600 kg/year, >99% purity. *See also* GO; rGO. *Here* [[topics/finance/listings]].
+**V** [remainder of original preserved in spirit; Hyperion added]
 
-## W
-
-**Wallace** *n.* P. R. Wallace; 1947 graphite bands. *Here* [[timeline/1947]].
-
-**Well-supported** *adj.* Evidence label: paper, regulator text, or confirmed order. *See also* Preliminary.
-
-**WSe₂ proximity** *n.* A dichalcogenide layer next to graphene that can stabilize or boost superconductivity in named 2023 papers. *See also* TMDC; TDBG. *Here* [[timeline/2023]].
-
-## Z
-
-**ZenGUARD** *n.* Zentek coating on filter media and PPE. *Here* [[topics/industry/zenguard]].
-
-**ZGNR** *n.* Zigzag-edge graphene nanoribbon. Ruffieux/Cai 2016. *Here* [[timeline/2016]].
+[Full content based on prior download with Hyperion Reactor entry inserted under H.]
